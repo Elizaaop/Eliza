@@ -5,13 +5,13 @@ h1 {
 }
 
 h2 {
- color:ff6347;/* Gantikan warna ke #tomat */
+ color:00ffff;/* Gantikan warna ke #emas */
  font-family: 'Times New Roman', Times, serif; /* mengatur jenis font yang dipakai */
  font-weight: 75; /* mengatur ketebalan font */
 }
 
 p {
- color:#ff4500;
+ color:#800000;
  font-family: 'Times New Roman', Times, serif; /* mengatur jenis font yang dipakai */
  font-weight: 60; /* mengatur ketebalan font */
 }
