@@ -8,3 +8,14 @@ p {
  /* Gantikan warna ke #0000ff */
  color:#ff0000;
 }
+
+h2 {
+ color:ff6347;/* Gantikan warna ke #blue */
+ font-family: 'Times New Roman', Times, serif; /* mengatur jenis font yang dipakai */
+ font-weight: 90; /* mengatur ketebalan font */
+}
+
+p {
+ /* Gantikan warna ke #0000ff */
+ color:#ff0000;
+}
