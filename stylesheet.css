@@ -8,3 +8,14 @@ p {
  color:#0000ff;
 
 }
+
+h2 {
+ /* Gantikan warna ke #ff0000 */
+ color:#E6000000;
+}
+
+p {
+ /* Gantikan warna ke #0000ff */
+ color:#0000ff;
+
+}
