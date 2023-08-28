@@ -1,6 +1,7 @@
 h1 {
- /* Gantikan warna ke #ff0000 */
- color:blue;
+ color:f08080;/* Gantikan warna ke #blue */
+ font-family: 'Times New Roman', Times, serif; /* mengatur jenis font yang dipakai */
+ font-weight: 90; /* mengatur ketebalan font */
 }
 
 p {
