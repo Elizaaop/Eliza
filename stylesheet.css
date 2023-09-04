@@ -2,6 +2,9 @@ h1 {
  color:f08080;/* Gantikan warna ke #koral terang */
  font-family: 'Times New Roman', Times, serif; /* mengatur jenis font yang dipakai */
  font-weight: 90; /* mengatur ketebalan font */
+ width: 500px;
+ height: 80px;
+ background-color:#9de8ea;
 }
 
 h2 {
@@ -16,3 +19,7 @@ p {
  font-weight: 60; /* mengatur ketebalan font */
 }
 
+img{
+ width: 50px;
+ height: 70px;
+}
