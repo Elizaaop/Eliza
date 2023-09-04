@@ -35,3 +35,14 @@ height: 90px;
 background-color:#bdf7f1;
 height: 600px;
 }
+
+li {
+ list-style: none;
+ 
+ float: left;
+}
+
+.header-logo{
+  font-size: 36px;
+  float: left;
+}
