@@ -1,50 +1,56 @@
 h1 {
- color:f08080;/* Gantikan warna ke #koral terang */
- font-family: 'Times New Roman', Times, serif; /* mengatur jenis font yang dipakai */
- font-weight: 90; /* mengatur ketebalan font */
- width: 500px;
- height: 80px;
- background-color:#f3f372;
+  color:#EEEEEE;
+  font-size: 30px;
+  background-color: #053B50;
+  height: 40px;
+  widht: 100px;
 }
 
 h2 {
- color:00ffff;/* Gantikan warna ke #emas */
- font-family: 'Times New Roman', Times, serif; /* mengatur jenis font yang dipakai */
- font-weight: 75; /* mengatur ketebalan font */
+  color: #053B50;
+  font-size: 20px;
+  background-color: #64CCC5;
+  height: 30px;
+  widht: 100px;
 }
 
 p {
- color:#800000;
- font-family: 'Times New Roman', Times, serif; /* mengatur jenis font yang dipakai */
- font-weight: 60; /* mengatur ketebalan font */
+  color:#176B87;
 }
 
-img{
- width: 50px;
- height: 70px;
+img {
+  height: 50px;
+  width: 70px;
 }
 
 body {
- font-family: 'Avenir Next';
-}
-.header{
-background-color:#f7f2b4;
-height: 90px;
-}
-.main{
-background-color:#bdf7f1;
-height: 600px;
+  font-family: "Avenir Next";
 }
 
 li {
- list-style: none;
- float: left;
- padding: 33px 20px;
+  list-style: none;
+  float: left;
+  padding: 33px 20px;
 }
 
-.header-logo{
- float: left;
- font-size: 36px;
- padding: 20px 40px;
-  
+.header {
+  background-color: #26d0c9;
+  color: #fff;
+  height: 90px;
+}
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+}
+
+.main {
+  background-color: #bdf7f1;
+  height: 600px;
+}
+
+.footer {
+  background-color: #ceccf3;
+  height: 270px;
 }
