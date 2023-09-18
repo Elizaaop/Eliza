@@ -22,9 +22,18 @@ li {
   float: left;
   padding: 33px 20px;
 }
+.container{
+  width: 1170px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 .main {
-  padding: 100px 80px;
+  padding-top: 180px;
+  padding-bottom: 100px;
+  color:
 }
 
 .copy-container h1 {
